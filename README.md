@@ -3,11 +3,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:003300,100:00ff41&height=300&section=header&text=PYTHON%20DEOBFUSCATOR&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Multi-Layer%20Decoder%20Suite&descSize=18&descAlignY=55&descColor=00e5ff&stroke=00ff41&strokeWidth=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:003300,100:00ff41&height=300&section=header&text=PYTHON%20DEOBFUSCATOR&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Multi-Layer%20Decoder%20Suite&descSize=18&descAlignY=55&descColor=00e5ff&stroke=00ff41&strokeWidth=1">
-  <img alt="Python Deobfuscator Suite" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:003300,100:00ff41&height=300&section=header&text=PYTHON%20DEOBFUSCATOR&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Multi-Layer%20Decoder%20Suite&descSize=18&descAlignY=55&descColor=00e5ff&stroke=00ff41&strokeWidth=1">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003300,100:00ff41&height=220&section=header&text=PYTHON%20DEOBFUSCATOR&fontSize=45&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Multi-Layer%20Decoder%20Suite&descSize=16&descAlignY=55&descColor=00e5ff" width="100%">
 
 <!-- Animated Typing SVG -->
 <a href="#">
