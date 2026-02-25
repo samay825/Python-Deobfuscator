@@ -114,6 +114,12 @@
 
 > **Split-pane layout** with INPUT / OUTPUT editors, real-time detection log, obfuscation scoring, theme selector, and drag-and-drop file support.
 
+<br>
+
+<img src="images/main_ui.png" width="90%" alt="Main UI Screenshot" />
+
+<br>
+
 **Toolbar:**  `📂 Load` · `📋 Paste` · `⚡ Auto Decode` · `🔧 Manual` · `💾 Export` · `🗑 Clear` · `🔑 API Key`
 
 **Panels:**
@@ -129,6 +135,11 @@
 
 <details>
 <summary><b>🎬 Animated Splash Screen Features</b></summary>
+<br>
+
+<div align="center">
+<img src="images/starting_screen.png" width="80%" alt="Splash Screen" />
+</div>
 <br>
 
 | Effect | Description |
